@@ -13,7 +13,7 @@ class CEO extends Model
         'name',
         'company_name',
         'year',
-        'company_headquarters',
+        'company_headquarter',
         'what_company_does'
     ];
 }
